@@ -1,0 +1,15 @@
+import pandas 
+abc= 123
+Abc =235
+print(id(abc))
+print(id(Abc))
+d = 10 
+print(d)
+print(id(d))
+print(type(d))
+
+output:- 4388008960
+         4388012544
+         10
+         4388005344
+         <class 'int'>
